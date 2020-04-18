@@ -192,6 +192,87 @@
 
 @media only screen and (max-width: 400px)
 {
+	
+.ourservices{
+	padding: 20px 0px;
+	height: 900px;
+
+	}
+.ourservices h1{
+	font-size: 45px;
+	font-weight: bold;
+}
+
+/*Ourservices rowssetting*/
+
+/* GRID row setting for section part*/
+.rowsetting{
+	margin: 20px 0px !important;
+}
+.rowsetting h2{
+	margin:10px 0px 2px;
+	font-weight: bold;
+	font-size: 20px;
+
+}
+
+.rowsetting p{
+	padding: 5px;
+	color: #6c757d;
+
+}
+
+
+
+.portfolio{	
+	height: 3000px;
+	width: 	100%;
+	padding: 20px 0px 10px;
+	margin-bottom: 100px;
+}
+.portfolio h1{
+	font-size: 	30px;
+}
+
+
+.card{
+	margin-top: 10px;
+
+}
+
+
+.ourteam{
+	height: 1300px;
+	padding: 20px;
+}
+
+.hearderset h2{
+	font-size: 20px;
+
+	}
+
+.hearderset h1{
+	font-size: 25px;
+	font-weight: bold;
+	margin-bottom: 	30px;
+}
+
+/********our amazing team************/
+
+
+.ourteam{
+	height: 800px;
+	padding: 5px 0px 0px;
+	width: 100%;
+}
+
+.ourteam h1{
+	padding: 5px;
+	font-size: 30px;
+	font-weight: bold;
+	margin: 4px;
+}
+
 
 }
 /********************mobile view********************/
