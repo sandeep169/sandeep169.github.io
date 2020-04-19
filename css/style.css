@@ -127,6 +127,10 @@
 
 @media only screen and (max-width: 575px)
 {
+
+
+
+
 	.hearderset h2{
 	font-size: 15px;
 
@@ -139,6 +143,55 @@
 
 .ourservices{
 	height: 900px;
+}
+
+.portfolio{	
+	height: 	3500px;
+	width: 		100%;
+	padding: 	50px 0px 50px;
+	margin-bottom: 50px;
+	
+}
+.portfolio h1{
+	font-size: 	50px;
+
+	font-weight: bold;
+}
+
+
+.card{
+	margin-top: 10px;
+	margin-bottom: 10px;
+
+}
+
+/*--------------Our-Team-----------*/
+
+.ourteam{
+	height: 800px;
+	padding: 100px 0 px 60px;
+	width: 100%;
+}
+.ourteam h1{
+	font-size: 50px;
+	font-weight: bold;
+}
+
+.teamsetting{
+	margin-top: 50px !important;
+}
+
+.footer{
+	height: 50px;
+
+}
+.footer h6{
+	line-height: 50px;
+}
+
+.figure-img{
+	height: 200px;
+	width: 150px;
 }
 
 }
@@ -192,35 +245,36 @@
 
 @media only screen and (max-width: 400px)
 {
-	
+
+
 .ourservices{
 	padding: 20px 0px;
-	height: 100px;
+	height: 900px;
 
 	}
 .ourservices h1{
 	font-size: 45px;
 	font-weight: bold;
-	}
+}
 
 /*Ourservices rowssetting*/
 
 /* GRID row setting for section part*/
 .rowsetting{
 	margin: 20px 0px !important;
-	}
+}
 .rowsetting h2{
 	margin:10px 0px 2px;
 	font-weight: bold;
 	font-size: 20px;
 
-	}
+}
 
 .rowsetting p{
 	padding: 5px;
 	color: #6c757d;
 
-	}
+}
 
 
 
@@ -229,22 +283,22 @@
 	width: 	100%;
 	padding: 20px 0px 10px;
 	margin-bottom: 100px;
-	}
+}
 .portfolio h1{
 	font-size: 	30px;
-	}
+}
 
 
 .card{
 	margin-top: 10px;
 
-	}
+}
 
 
 .ourteam{
 	height: 1300px;
 	padding: 20px;
-	}
+}
 
 .hearderset h2{
 	font-size: 20px;
@@ -255,7 +309,7 @@
 	font-size: 25px;
 	font-weight: bold;
 	margin-bottom: 	30px;
-	}
+}
 
 /********our amazing team************/
 
@@ -264,14 +318,18 @@
 	height: 800px;
 	padding: 5px 0px 0px;
 	width: 100%;
-	}
+}
 
 .ourteam h1{
 	padding: 5px;
 	font-size: 30px;
 	font-weight: bold;
 	margin: 4px;
-	}
+}
+
+
+
+
 
 
 }
@@ -279,7 +337,6 @@
 
 @media only screen and (max-width: 375px)
 {
-
 .ourservices{
 	padding: 20px 0px;
 	height: 850px;
@@ -288,40 +345,47 @@
 .ourservices h1{
 	font-size: 45px;
 	font-weight: bold;
-	}
+}
 
 /*Ourservices rowssetting*/
 
 /* GRID row setting for section part*/
 .rowsetting{
 	margin: 20px 0px !important;
-	}
+}
 .rowsetting h2{
 	margin:10px 0px 2px;
 	font-weight: bold;
 	font-size: 20px;
-	}
+
+}
 
 .rowsetting p{
 	padding: 5px;
 	color: #6c757d;
-	}
+
+}
+
+
 
 .portfolio{	
 	height: 2800px;
 	width: 	100%;
 	padding: 20px 0px 10px;
 	margin-bottom: 100px;
-	}
-	
+}
 .portfolio h1{
 	font-size: 	30px;
-	}
+}
+
 
 .card{
 	margin-top: 10px;
 
-	}
+}
+
+
+
 
 .hearderset h2{
 	font-size: 20px;
@@ -332,7 +396,7 @@
 	font-size: 25px;
 	font-weight: bold;
 	margin-bottom: 	30px;
-	}
+}
 
 /********our amazing team************/
 
@@ -341,13 +405,16 @@
 	height: 700px;
 	padding: 5px 0px 0px;
 	width: 100%;
-	}
+}
 
 .ourteam h1{
 	padding: 5px;
 	font-size: 30px;
 	font-weight: bold;
 	margin: 4px;
-	}
+}
+
+
+
 
 }
