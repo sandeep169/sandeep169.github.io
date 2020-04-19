@@ -33,7 +33,7 @@
 
 	}
 .ourservices h1{
-	font-size: 70px;
+	font-size: 50px;
 	font-weight: bold;
 }
 
@@ -60,6 +60,7 @@
 	border-radius: 50%; 
 	height: 100px;
 	width: 100px;
+	
 }
 /*fontawesome tools img setting*/
 .fa-android{
@@ -77,7 +78,8 @@
 /*//-------------portfolio--Team--welcome to team-------------*/
 
 .portfolio{	
-	height: 	1200px;
+	background-color: hsla(24, 0%, 63%, 0.2);	
+	height: 	850px;
 	width: 		100%;
 	padding: 	50px 0px 50px;
 	margin-bottom: 50px;
@@ -127,10 +129,6 @@
 
 @media only screen and (max-width: 575px)
 {
-
-
-
-
 	.hearderset h2{
 	font-size: 15px;
 
@@ -142,11 +140,11 @@
 	}
 
 .ourservices{
-	height: 900px;
+	height: 950px;
 }
 
 .portfolio{	
-	height: 	3500px;
+	height: 	2250px;
 	width: 		100%;
 	padding: 	50px 0px 50px;
 	margin-bottom: 50px;
@@ -168,7 +166,7 @@
 /*--------------Our-Team-----------*/
 
 .ourteam{
-	height: 800px;
+	height: 850px;
 	padding: 100px 0 px 60px;
 	width: 100%;
 }
@@ -243,6 +241,7 @@
 14. 400px
 ************/
 
+/*---------------big mobile screen--------*/
 @media only screen and (max-width: 400px)
 {
 
@@ -369,7 +368,7 @@
 
 
 .portfolio{	
-	height: 2800px;
+	height: 1950px;
 	width: 	100%;
 	padding: 20px 0px 10px;
 	margin-bottom: 100px;
@@ -402,16 +401,15 @@
 
 
 .ourteam{
-	height: 700px;
-	padding: 5px 0px 0px;
+	height: 830px;
+	/*padding: 5px 0px 0px;*/
 	width: 100%;
 }
 
 .ourteam h1{
-	padding: 5px;
-	font-size: 30px;
+	font-size: 25px;
 	font-weight: bold;
-	margin: 4px;
+
 }
 
 
